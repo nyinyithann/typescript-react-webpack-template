@@ -1,0 +1,9 @@
+.container {
+    width: 100vw;
+    margin:auto;
+}
+
+.greeting {
+    text-align: center;
+    font-size: 2rem;
+}
