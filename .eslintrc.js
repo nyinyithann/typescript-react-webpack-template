@@ -38,7 +38,6 @@ module.exports = {
                 'prettier'
             ],
             plugins: ['@typescript-eslint', 'prettier'],
-            ignorePatterns: ["node_modules/*", "dist/", "build/", "__test__", "docs / "],
             rules: {
                 'prettier/prettier': ['error'],
                 'import/no-extraneous-dependencies': 0,
